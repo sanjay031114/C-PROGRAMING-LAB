@@ -1,0 +1,8 @@
+===== ATTENDANCE REPORT =====
+Roll No	Name	Attendance
+101	VALT	7
+8	RITHISH	9
+0	SARAVANAN	9
+
+Present = 0
+Absent = 3
